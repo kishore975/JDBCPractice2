@@ -208,7 +208,7 @@ public class JdbcSes2 {
 			System.out.println("Deleted Successfully");
 		}
 		else {
-			System.out.println("Deletion Failed");
+			System.out.println("Failed to Delete");
 		}
 		con.close();
 		
